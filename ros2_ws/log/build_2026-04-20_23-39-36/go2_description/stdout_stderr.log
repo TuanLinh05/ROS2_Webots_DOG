@@ -1,0 +1,70 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/blingxyanua/ros2_ws/build/go2_description
+-- Install configuration: ""
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/config
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/config/joint_names_go2_description.yaml
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/config/robot_control.yaml
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/launch
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/launch/check_joint.rviz
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/launch/gazebo.launch
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/launch/go2_rviz.launch
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/launch/webots.launch.py
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/calf_mirror.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/base.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/hip.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/calf.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/thigh.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/thigh_mirror.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/foot.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/urdf
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/urdf/go2_description.urdf
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/urdf/Amended_collision_model.png
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/urdf/Normal_collision_model.png
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro/transmission.xacro
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro/gazebo.xacro
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro/robot.xacro
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro/materials.xacro
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro/leg.xacro
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro/const.xacro
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/worlds
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/worlds/empty.wbt
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/calf_mirror.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/base.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/hip.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/calf.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/thigh.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/thigh_mirror.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/foot.dae
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/ament_index/resource_index/package_run_dependencies/go2_description
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/ament_index/resource_index/parent_prefix_path/go2_description
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/environment/ament_prefix_path.sh
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/environment/ament_prefix_path.dsv
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/environment/path.sh
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/environment/path.dsv
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/local_setup.bash
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/local_setup.sh
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/local_setup.zsh
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/local_setup.dsv
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/package.dsv
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/ament_index/resource_index/packages/go2_description
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/cmake/go2_descriptionConfig.cmake
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/cmake/go2_descriptionConfig-version.cmake
+-- Installing: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/package.xml

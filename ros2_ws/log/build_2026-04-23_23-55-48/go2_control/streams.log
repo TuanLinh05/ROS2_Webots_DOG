@@ -1,0 +1,38 @@
+[0.690s] Invoking command in '/home/blingxyanua/ros2_ws/src/go2_control': PYTHONPATH=/home/blingxyanua/ros2_ws/build/go2_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/go2_control build --build-base /home/blingxyanua/ros2_ws/build/go2_control/build install --record /home/blingxyanua/ros2_ws/build/go2_control/install.log --single-version-externally-managed install_data
+[0.863s] running egg_info
+[0.864s] creating ../../build/go2_control/go2_control.egg-info
+[0.864s] writing ../../build/go2_control/go2_control.egg-info/PKG-INFO
+[0.864s] writing dependency_links to ../../build/go2_control/go2_control.egg-info/dependency_links.txt
+[0.864s] writing entry points to ../../build/go2_control/go2_control.egg-info/entry_points.txt
+[0.864s] writing requirements to ../../build/go2_control/go2_control.egg-info/requires.txt
+[0.864s] writing top-level names to ../../build/go2_control/go2_control.egg-info/top_level.txt
+[0.865s] writing manifest file '../../build/go2_control/go2_control.egg-info/SOURCES.txt'
+[0.866s] reading manifest file '../../build/go2_control/go2_control.egg-info/SOURCES.txt'
+[0.867s] writing manifest file '../../build/go2_control/go2_control.egg-info/SOURCES.txt'
+[0.867s] running build
+[0.867s] running build_py
+[0.867s] creating /home/blingxyanua/ros2_ws/build/go2_control/build
+[0.867s] creating /home/blingxyanua/ros2_ws/build/go2_control/build/lib
+[0.867s] creating /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control
+[0.868s] copying go2_control/__init__.py -> /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control
+[0.868s] copying go2_control/smc_plugin.py -> /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control
+[0.868s] running install
+[0.868s] running install_lib
+[0.869s] creating /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control
+[0.869s] copying /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control/__init__.py -> /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control
+[0.869s] copying /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control/smc_plugin.py -> /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control
+[0.870s] byte-compiling /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/__init__.py to __init__.cpython-310.pyc
+[0.870s] byte-compiling /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/smc_plugin.py to smc_plugin.cpython-310.pyc
+[0.870s] running install_data
+[0.871s] creating /home/blingxyanua/ros2_ws/install/go2_control/share/ament_index
+[0.871s] creating /home/blingxyanua/ros2_ws/install/go2_control/share/ament_index/resource_index
+[0.871s] creating /home/blingxyanua/ros2_ws/install/go2_control/share/ament_index/resource_index/packages
+[0.871s] copying resource/go2_control -> /home/blingxyanua/ros2_ws/install/go2_control/share/ament_index/resource_index/packages
+[0.871s] copying package.xml -> /home/blingxyanua/ros2_ws/install/go2_control/share/go2_control
+[0.871s] creating /home/blingxyanua/ros2_ws/install/go2_control/share/go2_control/launch
+[0.872s] copying launch/control.launch.py -> /home/blingxyanua/ros2_ws/install/go2_control/share/go2_control/launch
+[0.872s] running install_egg_info
+[0.873s] Copying ../../build/go2_control/go2_control.egg-info to /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control-0.0.0-py3.10.egg-info
+[0.874s] running install_scripts
+[0.892s] writing list of installed files to '/home/blingxyanua/ros2_ws/build/go2_control/install.log'
+[0.924s] Invoked command in '/home/blingxyanua/ros2_ws/src/go2_control' returned '0': PYTHONPATH=/home/blingxyanua/ros2_ws/build/go2_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/go2_control build --build-base /home/blingxyanua/ros2_ws/build/go2_control/build install --record /home/blingxyanua/ros2_ws/build/go2_control/install.log --single-version-externally-managed install_data

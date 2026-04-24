@@ -1,0 +1,52 @@
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/blingxyanua/ros2_ws/build/go2_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/config/joint_names_go2_description.yaml
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/config/robot_control.yaml
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/launch/check_joint.rviz
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/launch/gazebo.launch
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/launch/go2_rviz.launch
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/launch/webots.launch.py
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/base.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/calf.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/calf_mirror.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/foot.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/hip.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/thigh.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/meshes/thigh_mirror.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/urdf/Amended_collision_model.png
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/urdf/Normal_collision_model.png
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/urdf/go2_description.urdf
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro/const.xacro
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro/gazebo.xacro
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro/leg.xacro
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro/materials.xacro
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro/robot.xacro
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/xacro/transmission.xacro
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/worlds/empty.wbt
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/base.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/calf.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/calf_mirror.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/foot.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/hip.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/thigh.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/dae/thigh_mirror.dae
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/ament_index/resource_index/package_run_dependencies/go2_description
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/ament_index/resource_index/parent_prefix_path/go2_description
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/environment/path.sh
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/environment/path.dsv
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/local_setup.bash
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/local_setup.sh
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/local_setup.zsh
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/local_setup.dsv
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/package.dsv
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/ament_index/resource_index/packages/go2_description
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/cmake/go2_descriptionConfig.cmake
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/cmake/go2_descriptionConfig-version.cmake
+-- Symlinking: /home/blingxyanua/ros2_ws/install/go2_description/share/go2_description/package.xml

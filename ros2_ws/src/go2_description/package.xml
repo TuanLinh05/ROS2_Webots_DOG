@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>go2_description</name>
+  <version>1.0.0</version>
+  <description>
+    <p>URDF Description package for go2_description in ROS 2</p>
+    <p>This package contains configuration data, 3D models and launch files for go2_description robot</p>
+  </description>
+  <maintainer email="TODO@email.com">TODO</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>urdf</depend>
+  <depend>xacro</depend>
+  <depend>webots_ros2_driver</depend>
+  <depend>robot_state_publisher</depend>
+  <depend>rviz2</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

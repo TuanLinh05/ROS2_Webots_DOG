@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/go2_control/go2_control.egg-info/PKG-INFO
+../../build/go2_control/go2_control.egg-info/SOURCES.txt
+../../build/go2_control/go2_control.egg-info/dependency_links.txt
+../../build/go2_control/go2_control.egg-info/entry_points.txt
+../../build/go2_control/go2_control.egg-info/requires.txt
+../../build/go2_control/go2_control.egg-info/top_level.txt
+../../build/go2_control/go2_control.egg-info/zip-safe
+go2_control/__init__.py
+go2_control/smc_plugin.py
+launch/control.launch.py
+resource/go2_control
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
