@@ -1,0 +1,24 @@
+[1.012s] Invoking command in '/home/blingxyanua/ros2_ws/src/go2_control': PYTHONPATH=/home/blingxyanua/ros2_ws/build/go2_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/go2_control build --build-base /home/blingxyanua/ros2_ws/build/go2_control/build install --record /home/blingxyanua/ros2_ws/build/go2_control/install.log --single-version-externally-managed install_data
+[1.235s] running egg_info
+[1.236s] writing ../../build/go2_control/go2_control.egg-info/PKG-INFO
+[1.236s] writing dependency_links to ../../build/go2_control/go2_control.egg-info/dependency_links.txt
+[1.236s] writing entry points to ../../build/go2_control/go2_control.egg-info/entry_points.txt
+[1.237s] writing requirements to ../../build/go2_control/go2_control.egg-info/requires.txt
+[1.237s] writing top-level names to ../../build/go2_control/go2_control.egg-info/top_level.txt
+[1.239s] reading manifest file '../../build/go2_control/go2_control.egg-info/SOURCES.txt'
+[1.241s] writing manifest file '../../build/go2_control/go2_control.egg-info/SOURCES.txt'
+[1.241s] running build
+[1.241s] running build_py
+[1.241s] copying go2_control/smc_plugin.py -> /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control
+[1.242s] running install
+[1.242s] running install_lib
+[1.243s] copying /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control/smc_plugin.py -> /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control
+[1.244s] byte-compiling /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/smc_plugin.py to smc_plugin.cpython-310.pyc
+[1.246s] running install_data
+[1.246s] running install_egg_info
+[1.248s] removing '/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control-0.0.0-py3.10.egg-info' (and everything under it)
+[1.249s] Copying ../../build/go2_control/go2_control.egg-info to /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control-0.0.0-py3.10.egg-info
+[1.251s] running install_scripts
+[1.270s] Installing plot_results script to /home/blingxyanua/ros2_ws/install/go2_control/lib/go2_control
+[1.270s] writing list of installed files to '/home/blingxyanua/ros2_ws/build/go2_control/install.log'
+[1.294s] Invoked command in '/home/blingxyanua/ros2_ws/src/go2_control' returned '0': PYTHONPATH=/home/blingxyanua/ros2_ws/build/go2_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/go2_control build --build-base /home/blingxyanua/ros2_ws/build/go2_control/build install --record /home/blingxyanua/ros2_ws/build/go2_control/install.log --single-version-externally-managed install_data

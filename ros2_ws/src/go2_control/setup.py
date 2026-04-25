@@ -15,15 +15,16 @@ setup(
         # Thêm dòng này để ROS 2 có thể tìm thấy file control.launch.py
         (os.path.join('share', package_name, 'launch'), glob('launch/*.py')),
     ],
-    install_requires=['setuptools'],
+    install_requires=['setuptools', 'numpy'],
     zip_safe=True,
     maintainer='blingxyanua',
     maintainer_email='todo@todo.com',
-    description='SMC Controller for Go2',
+    description='SMC Controller for Go2 Quadruped Robot',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'plot_results = go2_control.plot_results:main',
         ],
     },
 )

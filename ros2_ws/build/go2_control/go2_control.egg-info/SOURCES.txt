@@ -9,6 +9,11 @@ setup.py
 ../../build/go2_control/go2_control.egg-info/top_level.txt
 ../../build/go2_control/go2_control.egg-info/zip-safe
 go2_control/__init__.py
+go2_control/data_logger.py
+go2_control/gait_planner.py
+go2_control/go2_kinematics.py
+go2_control/plot_results.py
+go2_control/smc_controller.py
 go2_control/smc_plugin.py
 launch/control.launch.py
 resource/go2_control

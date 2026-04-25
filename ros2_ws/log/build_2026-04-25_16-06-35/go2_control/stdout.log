@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/go2_control/go2_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/go2_control/go2_control.egg-info/dependency_links.txt
+writing entry points to ../../build/go2_control/go2_control.egg-info/entry_points.txt
+writing requirements to ../../build/go2_control/go2_control.egg-info/requires.txt
+writing top-level names to ../../build/go2_control/go2_control.egg-info/top_level.txt
+reading manifest file '../../build/go2_control/go2_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/go2_control/go2_control.egg-info/SOURCES.txt'
+running build
+running build_py
+copying go2_control/go2_kinematics.py -> /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control
+copying go2_control/smc_plugin.py -> /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control
+copying go2_control/gait_planner.py -> /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control
+running install
+running install_lib
+copying /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control/go2_kinematics.py -> /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control
+copying /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control/smc_plugin.py -> /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control
+copying /home/blingxyanua/ros2_ws/build/go2_control/build/lib/go2_control/gait_planner.py -> /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control
+byte-compiling /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/go2_kinematics.py to go2_kinematics.cpython-310.pyc
+byte-compiling /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/smc_plugin.py to smc_plugin.cpython-310.pyc
+byte-compiling /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/gait_planner.py to gait_planner.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/go2_control/go2_control.egg-info to /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing plot_results script to /home/blingxyanua/ros2_ws/install/go2_control/lib/go2_control
+writing list of installed files to '/home/blingxyanua/ros2_ws/build/go2_control/install.log'

@@ -1,7 +1,17 @@
 /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/__init__.py
+/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/go2_kinematics.py
+/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/plot_results.py
+/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/smc_controller.py
+/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/data_logger.py
 /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/smc_plugin.py
+/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/gait_planner.py
 /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/__pycache__/__init__.cpython-310.pyc
+/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/__pycache__/go2_kinematics.cpython-310.pyc
+/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/__pycache__/plot_results.cpython-310.pyc
+/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/__pycache__/smc_controller.cpython-310.pyc
+/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/__pycache__/data_logger.cpython-310.pyc
 /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/__pycache__/smc_plugin.cpython-310.pyc
+/home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control/__pycache__/gait_planner.cpython-310.pyc
 /home/blingxyanua/ros2_ws/install/go2_control/share/ament_index/resource_index/packages/go2_control
 /home/blingxyanua/ros2_ws/install/go2_control/share/go2_control/package.xml
 /home/blingxyanua/ros2_ws/install/go2_control/share/go2_control/launch/control.launch.py
@@ -12,3 +22,4 @@
 /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control-0.0.0-py3.10.egg-info/entry_points.txt
 /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control-0.0.0-py3.10.egg-info/zip-safe
 /home/blingxyanua/ros2_ws/install/go2_control/lib/python3.10/site-packages/go2_control-0.0.0-py3.10.egg-info/dependency_links.txt
+/home/blingxyanua/ros2_ws/install/go2_control/lib/go2_control/plot_results
