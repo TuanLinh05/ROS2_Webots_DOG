@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
 ![Control](https://img.shields.io/badge/Control-Sliding%20Mode-6A1B9A)
 
+<a id="english"></a>**🇬🇧 English** · [🇻🇳 Tiếng Việt](#tieng-viet)
+
 Gait control for the **Unitree Go2** quadruped model in **Webots**, driven from **ROS 2** through a `webots_ros2_driver` Python plugin.
 Each joint is controlled by a **Sliding Mode Controller with gravity compensation**, and foot trajectories come from a **Bézier-curve gait planner**. Every run is logged to CSV for offline analysis.
 
@@ -58,6 +60,39 @@ The Go2 robot model (`go2_description`) is based on Unitree's open-source Go2 UR
 ## 🔗 Related
 
 - [Quadruped-robot-12DOF](https://github.com/TuanLinh05/Quadruped-robot-12DOF) – custom 12-DOF quadruped with a 1 kHz C-based SMC controller and MATLAB telemetry.
+
+---
+
+<a id="tieng-viet"></a>
+
+## 🇻🇳 Tiếng Việt
+
+[🇬🇧 English](#english) · **🇻🇳 Tiếng Việt**
+
+Điều khiển dáng đi cho mô hình robot bốn chân **Unitree Go2** trong **Webots**, chạy từ **ROS 2** qua một plugin Python của `webots_ros2_driver`.
+Mỗi khớp được điều khiển bằng **bộ điều khiển trượt có bù trọng lực**, quỹ đạo bàn chân lấy từ **bộ lập dáng đi dùng đường cong Bézier**. Mỗi lần chạy đều được ghi ra CSV để phân tích sau.
+
+### ✨ Tính năng
+
+- **SMC cấp khớp:** `τ = G(q) + Kp·e + Kd·ė + K_smc·sat(s/Φ)`. Hàm bão hòa có lớp biên giúp giảm chattering. Có thể đặt hệ số riêng cho từng khớp.
+- **Lập dáng đi:** các dáng `trot`, `walk`, `pronk`, chỉnh được tần số, độ dài bước và độ cao nhấc chân. Pha nhấc chân dùng Bézier bậc 4.
+- **Động học:** động học ngược cho khớp đùi và khớp gối của Go2, chuyển mượt từ đứng sang đi.
+- **Ghi và vẽ dữ liệu:** góc khớp mong muốn / thực tế, mô-men, mặt trượt và vị trí bàn chân được lưu ra CSV. `plot_results.py` vẽ sai số bám, mô-men, mặt trượt và quỹ đạo bàn chân trong mặt phẳng x–z.
+
+Cấu trúc thư mục: xem phần tiếng Anh ở trên.
+
+### 🚀 Hướng dẫn sử dụng
+
+> Yêu cầu: Ubuntu 22.04, ROS 2 Humble, Webots, `webots_ros2`.
+
+1. Build: `colcon build --packages-select go2_description go2_control`
+2. Nạp môi trường: `source install/setup.bash`
+3. Chạy: `ros2 launch go2_control control.launch.py`
+4. Sau khi chạy, vẽ log mới nhất: `python3 src/go2_control/go2_control/plot_results.py`
+
+### 🙏 Ghi nhận
+
+Mô hình robot Go2 (`go2_description`) dựa trên URDF mã nguồn mở của Unitree.
 
 ---
 

@@ -1,3 +1,0 @@
-[console_scripts]
-plot_results = go2_control.plot_results:main
-
